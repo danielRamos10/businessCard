@@ -19,7 +19,7 @@ function UserInfo() {
 function Buttons() {
   return (
     <nav className="buttons-social">
-      <button>Email</button>
+      <a href ="mailto:daniel10.ramos21@gmail.com"><button>Email</button></a>
     </nav>
   );
 }
